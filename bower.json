@@ -1,0 +1,29 @@
+{
+  "name": "potcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "https://github.com/potcoin/potcore",
+  "authors": [
+    "Larry Ren (<ren@potcoin.com>)"
+  ],
+  "description": "Potcoin Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "potcoin",
+    "potcore",
+    "pot",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
